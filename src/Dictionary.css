@@ -1,3 +1,23 @@
 .Dictionary {
   text-align: center;
 }
+
+form {
+  margin-bottom: 15px;
+}
+
+section {
+  padding: 20px;
+  max-width: 600px;
+  display: block;
+  margin: 15px auto;
+  border: solid 1px #d8e1e8;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 10px 5px 5px grey;
+}
+
+h1 {
+  font-size: 18px;
+  color: rgb(75, 73, 73);
+}

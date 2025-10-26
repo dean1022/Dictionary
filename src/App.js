@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
       <main>
+        <div className="title">Dictionary</div>
         <Dictionary />
       </main>
       <footer>
